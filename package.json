@@ -1,0 +1,21 @@
+{
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vue": "^3.3.4"
+  },
+  "dependencies": {
+    "@ksw/components": "workspace:^",
+    "@ksw/theme-chalk": "workspace:^",
+    "@ksw/utils": "workspace:^"
+  }
+}
