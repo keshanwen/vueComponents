@@ -1,14 +1,12 @@
 <script setup lang="ts">
 import { CashOutline } from '@vicons/ionicons5'
-
-
 </script>
 
 <template>
   <div>
     <z-icon :color="'red'" :size="40">
       <CashOutline></CashOutline>
-  </z-icon>
+    </z-icon>
   </div>
 </template>
 
